@@ -19,7 +19,6 @@ function App() {
           <li>add "predeploy":"npm run build" scripts section in package.json</li>
           <li>add "deploy":"gh-pages -d build" scripts section in package.json</li>
           <li>npm run deploy</li>
-         <li></li>
         </ul>       
       </header>
     </div>
