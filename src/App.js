@@ -15,7 +15,7 @@ function App() {
           <li>git remote add origin https://github.com/mesutzincir/react-github-pages-test.git</li>  
           <li>git push -u origin master</li>       
           <li>npm install --save gh-pages</li> 
-          <li>add "homepage":"https://mesutzincir.github.com/react-github-pages-test/" below name in package.json</li>
+          <li>add "homepage":"https://mesutzincir.github.io/react-github-pages-test/" below name in package.json</li>
           <li>add "predeploy":"npm run build" scripts section in package.json</li>
           <li>add "deploy":"gh-pages -d build" scripts section in package.json</li>
           <li>npm run deploy</li>
